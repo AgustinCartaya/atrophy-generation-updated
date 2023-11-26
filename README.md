@@ -1,4 +1,4 @@
-# Update - Generating controlled atrophy evaluationenvironments on brain MR using convolutionalneural networks and segmentation priors
+# Updated - Generating controlled atrophy evaluationenvironments on brain MR using convolutionalneural networks and segmentation priors
 This code is an update to "Generating controlled atrophy evaluationenvironments on brain MR using convolutionalneural networks and segmentation priors" that implements version 2.10.1 of tensorflow.
 
 ## Original source
